@@ -1,0 +1,15 @@
+Prof no idea whats going on in all these sorting algorithms
+Min vertex cover
+Steiner tree
+Traveling salesperson problem
+Convex hull
+Suffix Array
+Suffix tree
+Cycle finding
+SS Shortest paths
+Graph transversal
+Min spanning tree
+Union-find DS
+Fenwick tree
+Binary heap
+Bit mask
